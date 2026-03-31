@@ -5,12 +5,12 @@
 **Roll Number:** 24BCE10991  
 **Software Chosen:** Git  
 
----
+
 
 ## Project Description
 This project is an open source audit of Git, a distributed version control system. It explores its origin, license, philosophy, Linux footprint, ecosystem, and comparison with proprietary tools. The project also includes five shell scripts demonstrating Linux command-line skills.
 
----
+
 
 ## Scripts
 
@@ -29,7 +29,7 @@ Counts occurrences of a keyword in a log file and shows the last 5 matching line
 ### Script 5: Open Source Manifesto Generator
 Generates a personalized open source philosophy statement based on user input.
 
----
+
 
 ## How to Run the Scripts
 
@@ -43,7 +43,7 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 ./script5.sh
 ```
 
----
+
 
 ## Requirements
 
@@ -51,14 +51,14 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 - Git installed
 - Terminal access
 
----
+
 
 ## Notes
 
 - Script 4 requires a valid log file path.
 - Make sure scripts have execution permission before running.
 
----
+
 
 ## Conclusion
 
