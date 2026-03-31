@@ -33,9 +33,15 @@ Generates a personalized open source philosophy statement based on user input.
 
 ## How to Run the Scripts
 
+1. Open terminal in the folder containing the scripts.
+
+2. Give execution permission:
+
 ```bash
 chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
-
+```
+3. Run scripts:
+```
 ./script1.sh
 ./script2.sh
 ./script3.sh
