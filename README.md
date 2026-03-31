@@ -1,5 +1,5 @@
 # oss-audit-24BCE10991
-# OSS Capstone Project
+# OSS Project
 
 **Name:** Bathula Nidhi 
 **Roll Number:** 24BCE10991  
