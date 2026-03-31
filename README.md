@@ -30,3 +30,9 @@ Generates a personalized open source philosophy statement.
 ```bash
 chmod +x script1.sh
 ./script1.sh
+
+(Similarly run other scripts)
+
+## Requirements
+Linux system (Ubuntu recommended)
+Git installed
